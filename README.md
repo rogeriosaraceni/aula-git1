@@ -68,7 +68,7 @@ Commit com a mesagem para inidicar qual foi a alteração (agora tem um ponto na
 
 ### `git merge` // Merge: mesclar branch p/ master
 
-### `git branch -D nome-da-branch` // Deletar uma branch
+### `git branch -D nome-da-branch`// Deletar uma branch
 
 ### `git remote` // Adicionar um repositorio remoto
 - git remote add nome link-do-github
@@ -93,6 +93,7 @@ Commit com a mesagem para inidicar qual foi a alteração (agora tem um ponto na
 
 ### `git config credential.helper store` // quando der um push não precisa das credencias
 # 
+
 
 ## Ferramentas
 
