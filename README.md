@@ -37,6 +37,8 @@ Commit com a mesagem para inidicar qual foi a alteração (agora tem um ponto na
 - Nada para commitar
 - nothing to commit, working tree clean
 
+### `git commit -am "Seu commit"` // adiciona e já faz o commit
+
 ### `git log` // Ver as informações dos Commits que já foram feitos
 - `git log -1` // mostrar apenas o ultimo commit
 - `git log --oneline` // resumido em linhas
