@@ -49,44 +49,44 @@ Commit com a mesagem para inidicar qual foi a alteração (agora tem um ponto na
 - `git show numeroDoCommit`
 - Ex: git show af9301d7beeb1a5229e871fadf1aac41c6ad7f1f
 
-## `git diff` // Verificar quais foram as alteraçõe nos arquivos - mostra o que foi realizado entes de dar um add
+### `git diff` // Verificar quais foram as alteraçõe nos arquivos - mostra o que foi realizado entes de dar um add
 
-## `.gitignore` // Crie o arquivo .gitignore e coleque os diretorios e arquivos para serm ignorados
+### `.gitignore` // Crie o arquivo .gitignore e coleque os diretorios e arquivos para serm ignorados
 
-## `git checkout` // Ir para algum lugar 
+### `git checkout` // Ir para algum lugar 
 - `git checkout` + numero do commit
 - `git checkout` + nome da branch
 - `git checkout master` // para voltar
 
-## `cat` // Ver o conteudo de um arquivo no commit
+### `cat` // Ver o conteudo de um arquivo no commit
 - cat exemplo.html
 
-## `git branch` // Ramos do projeto
+### `git branch` // Ramos do projeto
 - git branch nome-do-ramo
 - Ex: git branch feature/nfe
 - se der o camando git branch vai aparecer 2 branchs o master(caule) e feature/nfe(ramo)
 
-## `git merge` // Merge: mesclar branch p/ master
+### `git merge` // Merge: mesclar branch p/ master
 
-## `git branch -D nome-da-branch` // Deletar uma branch
+### `git branch -D nome-da-branch` // Deletar uma branch
 
-## `git remote` // Adicionar um repositorio remoto
+### `git remote` // Adicionar um repositorio remoto
 - git remote add nome link-do-github
 - Ex: git remote add origin https://github.com/rsaraceni/live-git.git
 
-## `git remote -v` // Listar urls 
+### `git remote -v` // Listar urls 
 
-## `git push` // Enviar para o github remoto
+### `git push` // Enviar para o github remoto
 - git push nome-do-ponto nome-do-ramo
 - Ex: git push origin master
 
-## `git clone` // Clonar projeto
+### `git clone` // Clonar projeto
 - git clone url-do-projeto pasta
 - Ex: git clone https://github.com/rsaraceni/live-git.git GitHub
 - Caso já esteja na pasta do desejada é só:
 - git clone https://github.com/rsaraceni/live-git.git
 
-## `git pull` // puxar do github 
+### `git pull` // puxar do github 
 - git pull 
 - git pull + remote a puxar + ramo
 - Ex: git pull origin master
