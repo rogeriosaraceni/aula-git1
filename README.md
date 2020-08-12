@@ -91,6 +91,7 @@ Commit com a mesagem para inidicar qual foi a alteração (agora tem um ponto na
 - git pull + remote a puxar + ramo
 - Ex: git pull origin master
 
+### `git config credential.helper store` // quando der um push não precisa das credencias
 # 
 
 ## Ferramentas
